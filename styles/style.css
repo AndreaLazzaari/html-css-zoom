@@ -5,3 +5,29 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: yellowgreen;
+    height: 100vh;
+}
+
+footer{
+    height: 70px;
+    background-color: #222222;
+}
+
+.contenitore{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.contenitore-nero{
+    background-color: black;
+    padding: 8rem;
+}
