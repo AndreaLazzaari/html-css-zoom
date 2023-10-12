@@ -9,16 +9,23 @@
 body{
     background-color: yellowgreen;
     height: 100vh;
+    
+}
+
+main{
+    height: 90%;
 }
 
 footer{
-    height: 70px;
+    height: 74px;
     background-color: #222222;
+    
 }
 
 .contenitore{
-    width: 80%;
+    width: 93%;
     margin: 0 auto;
+    
 }
 
 .flex{
@@ -30,4 +37,11 @@ footer{
 .contenitore-nero{
     background-color: black;
     padding: 8rem;
+    height: 90vh;
+    overflow-x: auto;
+    
 }
+
+
+
+
